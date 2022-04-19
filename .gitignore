@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/app/build/
+/app/build/intermediates/javac/debug/classes/
+/task1/build/
+/task1/build/intermediates/javac/debug/classes/
+/task2/build/
+/task2/build/intermediates/javac/debug/classes/
+/utils/build/
+/utils/build/intermediates/javac/debug/classes/

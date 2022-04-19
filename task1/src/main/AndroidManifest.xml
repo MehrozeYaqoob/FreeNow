@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.freenow.task1">
+
+    <application
+        android:icon="@mipmap/ic_launcher">
+
+        <activity
+            android:name=".presentation.view.VehiclesMapActivity">
+        </activity>
+    </application>
+</manifest>

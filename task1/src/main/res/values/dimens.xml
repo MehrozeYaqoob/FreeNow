@@ -1,0 +1,25 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="spacing_lg">32dp</dimen>
+    <dimen name="spacing_md">24dp</dimen>
+    <dimen name="spacing_sm">16dp</dimen>
+    <dimen name="spacing_st">12dp</dimen>
+    <dimen name="spacing_xl">48dp</dimen>
+    <dimen name="spacing_xs">8dp</dimen>
+    <dimen name="spacing_xxl">80dp</dimen>
+    <dimen name="spacing_xxs">4dp</dimen>
+    <dimen name="spacing_xxxs">2dp</dimen>
+    <dimen name="spacing_zero">0dp</dimen>
+
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="size_50">50dp</dimen>
+    <dimen name="size_70">70dp</dimen>
+    <dimen name="size_160">160dp</dimen>
+
+    <dimen name="font_size_l">18sp</dimen>
+    <dimen name="font_size_m">16sp</dimen>
+    <dimen name="font_size_s">14sp</dimen>
+    <dimen name="font_size_xs">12sp</dimen>
+    <dimen name="corner_radius_xs">4dp</dimen>
+
+</resources>

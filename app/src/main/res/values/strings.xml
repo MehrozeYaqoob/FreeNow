@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreeNow</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="map">Map</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyDDnNVwiX8Dd-46bCVbOGy1KJWFlxFO8HU</string>
+</resources>
